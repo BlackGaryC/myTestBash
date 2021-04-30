@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # bash main file 
-mainFile="test.sh"
+mainFile="main.sh"
 # bash function file
 functionFile='fun.sh'
 
